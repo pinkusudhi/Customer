@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Entity.CustomerEntity"/>
+    <fullyQualifiedTypeName name="com.example.Customer.Customer.Entity.CustomerEntity"/>
+    <fullyQualifiedTypeName name="com.example.Customer.Customer.Responce.CustomerAddressResponce"/>
+    <fullyQualifiedTypeName name="com.example.Customer.Customer.Service.CustomerService"/>
+</qualifiedTypeNameHistroy>
